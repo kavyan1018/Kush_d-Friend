@@ -1,0 +1,20 @@
+statically | dynamically
+
+
+statically : We have to provide the data types of the variables : c, cpp, java 
+dynamically : We dont need to provide data types : python , js
+
+
+game , desktop app, web app[dajango, fastapi], data science
+
+file --> file_name.py
+
+data types :
+    int    : -> in the int we can store whole numbers : like 1, 2, 3, 4, 5
+    float  : -> in the float we can store decimal numbers : like 1.1, 2.2, 3.3    -> 1.889885
+    bool   : -> in the bool we can store True or False
+    str    : -> in the str we can store text : like "Hello", "World"
+    double : -> in the double we can store decimal numbers with double precision : like 1.123456789, 2.987654321
+
+
+    
