@@ -1,0 +1,10 @@
+if -> decision making statement
+-> true of false
+else -> alternative statement
+
+
+syntax:
+if condition:
+    # code 
+else 
+    # code
