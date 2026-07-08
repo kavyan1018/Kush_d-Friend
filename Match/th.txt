@@ -1,0 +1,13 @@
+varible -> user will give the value 
+
+
+    match varible with:
+        case 1:
+            // code for case 1
+        case 2:
+            // code for case 2  
+        case 3:
+            // code for case 3
+        
+        case _:
+            # default case
